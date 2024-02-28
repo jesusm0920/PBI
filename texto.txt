@@ -1,1 +1,3 @@
-Hola soy la version 1
+Hola soy la version 2
+
+otro texto
